@@ -1,4 +1,4 @@
-# Visualizing-a-Live-Hijack through ARP Spoofing
+# End-to-End Framework for Real-Time Network Hijack  Detection and Visualization
 
 This project demonstrates the vulnerability of ARP in computer networks through a live ARP spoofing (Man-in-the-Middle) attack using Python and Scapy, with traffic visualized in Wireshark. 
 To counter this, we implement two defenses: static ARP entries at the host level and Dynamic ARP Inspection (DAI) at the network level in Cisco Packet Tracer. 
